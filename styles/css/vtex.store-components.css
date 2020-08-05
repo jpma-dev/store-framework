@@ -25,6 +25,10 @@
     border: transparent;
 }
 
-.infoCardContainer--vintage, .infoCardContainer--metal {
+.infoCardContainer--vintage {
+    background-color: #edcfd1;
+}
+
+.infoCardContainer--metal {
     background-color: #e1e1e1;
 }
